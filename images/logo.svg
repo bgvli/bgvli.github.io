@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1224px" height="509px" viewBox="0 0 1224 509" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 2</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2">
+            <rect id="Rectangle" x="0" y="0" width="1224" height="509"></rect>
+            <g id="Group" transform="translate(63.000000, 80.000000)">
+                <polygon id="Polygon" fill="#0B402B" points="177.5 0 346.312532 122.649483 281.831882 321.100517 73.1681177 321.100517 8.68746836 122.649483"></polygon>
+                <polygon id="Polygon" fill="#35605A" opacity="0.848699661" transform="translate(177.500000, 177.500000) scale(-1, 1) translate(-177.500000, -177.500000) " points="177.5 62.983871 286.411311 142.11257 244.810892 270.145495 110.189108 270.145495 68.5886893 142.11257"></polygon>
+                <polygon id="Polygon" fill="#6B818C" opacity="0.722922916" points="177.5 120.241935 231.955655 159.806285 211.155446 223.822747 143.844554 223.822747 123.044345 159.806285"></polygon>
+            </g>
+            <text id="bgvli" font-family="CourierNewPSMT, Courier New" font-size="217" font-weight="normal" fill="#000000">
+                <tspan x="482" y="313">bgvli</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
