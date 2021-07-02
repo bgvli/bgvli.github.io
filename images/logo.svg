@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="1224px" height="509px" viewBox="0 0 1224 509" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Group 2</title>
+<svg width="1503px" height="723px" viewBox="0 0 1503 723" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 6</title>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Group-2">
-            <rect id="Rectangle" x="0" y="0" width="1224" height="509"></rect>
-            <g id="Group" transform="translate(63.000000, 80.000000)">
-                <polygon id="Polygon" fill="#0B402B" points="177.5 0 346.312532 122.649483 281.831882 321.100517 73.1681177 321.100517 8.68746836 122.649483"></polygon>
-                <polygon id="Polygon" fill="#35605A" opacity="0.848699661" transform="translate(177.500000, 177.500000) scale(-1, 1) translate(-177.500000, -177.500000) " points="177.5 62.983871 286.411311 142.11257 244.810892 270.145495 110.189108 270.145495 68.5886893 142.11257"></polygon>
-                <polygon id="Polygon" fill="#6B818C" opacity="0.722922916" points="177.5 120.241935 231.955655 159.806285 211.155446 223.822747 143.844554 223.822747 123.044345 159.806285"></polygon>
+        <g id="Group-6">
+            <rect id="Rectangle" x="0" y="0" width="1503" height="723"></rect>
+            <g id="Group-5" transform="translate(64.000000, 86.000000)">
+                <g id="Group-4" transform="translate(73.642140, 79.873678)">
+                    <path d="M287.35786,17.5793465 C417.35786,17.5793465 435.86433,241.808904 349.534398,306.825984 C263.204466,371.843064 33.4517809,426.095263 3.28385274,306.825984 C-26.8840754,187.556705 157.35786,17.5793465 287.35786,17.5793465 Z" id="Triangle" fill="#1062C3"></path>
+                    <path d="M269.35786,34.5793465 C380.108649,161.475378 419.105196,284.851327 370.530946,345.958318 C321.956695,407.065309 181.822832,416.764813 71.590346,289.120096 C-38.6421399,161.475378 158.607072,-92.3166851 269.35786,34.5793465 Z" id="Triangle" fill-opacity="0.625944978" fill="#25DAF3"></path>
+                </g>
+                <rect id="Rectangle" x="0" y="0" width="550" height="550"></rect>
             </g>
             <text id="bgvli" font-family="CourierNewPSMT, Courier New" font-size="217" font-weight="normal" fill="#000000">
-                <tspan x="482" y="313">bgvli</tspan>
+                <tspan x="647" y="421">bgvli</tspan>
             </text>
         </g>
     </g>
